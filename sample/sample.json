@@ -1,0 +1,111 @@
+[
+  {
+    "id": "cdd28c1b-b2d4-4ebc-b457-209ca00fa0de",
+    "name": "Checkers Milk Custard",
+    "price": 9.72,
+    "priceRange": { "min": 9.72, "max": 16.68 },
+    "images": [
+      "https://wazobia.market/wp-content/uploads/Checkers-Milk-Custard-400g.jpg",
+      "https://wazobia.market/wp-content/uploads/Checkers-Milk-Custard-400g.jpg"
+    ],
+    "link": "https://wazobia.market/product/checkers-milk-custard/",
+    "category": "Cereal and Pudding",
+    "productVariants": [
+      { "weight": "1kg$13.34", "price": 13.34 },
+      { "weight": "1kg$13.34", "price": 16.68 },
+      { "weight": "1kg$13.34", "price": 9.72 }
+    ]
+  },
+  {
+    "id": "6c0cd1f1-d2ce-453a-aa1e-53b58e7b128c",
+    "name": "Checkers Custard Powder Vanilla Flavour",
+    "price": 2,
+    "priceRange": { "min": 2, "max": 16.68 },
+    "images": [
+      "https://wazobia.market/wp-content/uploads/Checkers-Custard-Vanilla.jpg",
+      "https://wazobia.market/wp-content/uploads/Checkers-Custard-Vanilla.jpg"
+    ],
+    "link": "https://wazobia.market/product/checkers-custard-powder-vanilla-flavour/",
+    "category": "Cereal and Pudding",
+    "productVariants": [
+      { "weight": "2kg", "price": 16.68 },
+      { "weight": "2kg", "price": 9.72 },
+      { "weight": "2kg", "price": 2 }
+    ]
+  },
+  {
+    "id": "12c57047-ac99-494d-b96d-33514a8f7f22",
+    "name": "Checkers Custard Powder Chocolate Flavour (1kg)",
+    "price": 13.34,
+    "priceRange": null,
+    "description": "1KG",
+    "images": [],
+    "link": "https://wazobia.market/product/checkers-custard-powder-chocolate-flavour-1kg/",
+    "category": "Cereal and Pudding"
+  },
+  {
+    "id": "ade77540-1e31-42fe-86cf-504e3db4ca85",
+    "name": "Checkers Custard Powder Banana Flavour (2kg)",
+    "price": 16.68,
+    "priceRange": null,
+    "description": "2KG",
+    "images": [],
+    "link": "https://wazobia.market/product/checkers-custard-powder-banana-flavour-2kg/",
+    "category": "Cereal and Pudding"
+  },
+  {
+    "id": "83caed95-be66-4bc7-97b1-8b592fd6befb",
+    "name": "Blessed Royals Creations Yellow Pap-Akamu-Ogi-Eco (16oz)",
+    "price": 4,
+    "priceRange": null,
+    "description": "16OZ",
+    "images": [
+      "https://wazobia.market/wp-content/uploads/Blessed-Ogi-4.jpg",
+      "https://wazobia.market/wp-content/uploads/Blessed-Ogi-4.jpg"
+    ],
+    "link": "https://wazobia.market/product/blessed-royals-creations-yellow-pap-akamu-ogi-eco-16oz/",
+    "category": "Cereal and Pudding"
+  },
+  {
+    "id": "c473a063-f482-42f2-920e-021c2bb63f52",
+    "name": "Blessed Royals Creations White Pap-Akamu-Ogi-Eco (16oz)",
+    "price": 5.1,
+    "priceRange": null,
+    "description": "16OZ",
+    "images": [
+      "https://wazobia.market/wp-content/uploads/Blessed-Ogi-5.jpg",
+      "https://wazobia.market/wp-content/uploads/Blessed-Ogi-5.jpg"
+    ],
+    "link": "https://wazobia.market/product/blessed-royals-creations-white-pap-akamu-ogi-eco-16oz/",
+    "category": "Cereal and Pudding"
+  },
+  {
+    "id": "5585d904-3226-4489-a3bd-b60733430222",
+    "name": "Bird's Original Custard Powder",
+    "price": 3.99,
+    "priceRange": { "min": 3.99, "max": 7.61 },
+    "images": [
+      "https://wazobia.market/wp-content/uploads/Birds-Custard_.jpg",
+      "https://wazobia.market/wp-content/uploads/Birds-Custard_.jpg"
+    ],
+    "link": "https://wazobia.market/product/birds-original-custard-powder/",
+    "category": "Cereal and Pudding",
+    "productVariants": [
+      { "weight": "300g", "price": 3.99 },
+      { "weight": "300g", "price": 7.61 }
+    ]
+  },
+  {
+    "id": "2a43efbf-2d95-4d54-9189-277c5285af76",
+    "name": "At Home Foods Powdered Ogi (1lb)",
+    "price": 5,
+    "priceRange": null,
+    "description": "1LB",
+    "images": [
+      "https://wazobia.market/wp-content/uploads/At-Home-Foods-Pap.jpg",
+      "https://wazobia.market/wp-content/uploads/At-Home-Foods-Pap.jpg"
+    ],
+    "link": "https://wazobia.market/product/at-home-foods-powdered-ogi-1lb/",
+    "category": "Cereal and Pudding"
+  }
+]

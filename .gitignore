@@ -1,6 +1,7 @@
-/node-modules
+/node_modules
 /dist
 /data
 
 
 .env
+sample.csv
