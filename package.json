@@ -6,7 +6,8 @@
   "author": "Benedict Gabriel <benedictgabriel73@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "tsc && node dist/index.js"
+    "start": "tsc && node dist/index.js",
+    "convert": "tsc && node dist/convert.js"
   },
   "devDependencies": {
     "@types/puppeteer": "^7.0.4",
